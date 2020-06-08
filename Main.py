@@ -4,10 +4,10 @@ import requests
 
 
 #Ключ доступа сообщества - УКАЗАТЬ!
-token = 'f6cc9bf9cbe5021acd93c1ad71e478bde987d0e209f0cd26fd575a7fbc8f44775d057cbce2e5ff2d2c0eb'
+token = 'a4d703b179d1e117aea4d2603f7b5ce9c7b48f17c15440ef904bcae55d1d579873168d322ba482aac9519'
 
 #id сообщества (положительное число) - УКАЗАТЬ!
-group = 144234283
+group = 152524817
 
 #Сервисный ключ - УКАЗАТЬ!
 access_key = 'cf8ec30ead56531f5776d0d7bf458653c3f312b910e5b0b9f9a7a2cc34304643f7219de6dadec03765f8d'
