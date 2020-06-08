@@ -1,1 +1,1 @@
-worker: python Auto.py
+worker: python Main.py
